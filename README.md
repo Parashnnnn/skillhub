@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillfy-alpha.vercel.app/" target="_blank">
-    <img src="skillhub-readme.png" alt="SkillHub — Show Your Work | Click to open the live website" width="100%" />
+    <img src="Screenshot 2026-10-16 195936.png" alt="SkillHub — Show Your Work | Click to open the live website" width="100%" />
   </a>
 </p>
 
